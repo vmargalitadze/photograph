@@ -18,8 +18,7 @@ const PhotoBlock = ({ image, link, height, heading }: PhotoBlockProps) => {
               className="transition ease-in-out delay-150 duration-700 group-hover:opacity-50 group-hover:-translate-y-1 group-hover:scale-110"
               src={image}
               layout="responsive"
-              width="100%"
-              height={`${height}%`}
+          
               objectFit="cover"
               objectPosition="50%,50%"
               alt="Photo"
