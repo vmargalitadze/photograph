@@ -1,0 +1,14 @@
+
+{
+    "HomePage": {
+        "1": "First Name",
+  "2": "Last Name",
+  "3": "Email",
+  "4": "Phone Number",
+        "mess":"Home",
+        "cont":"contact us",
+        "salon":"Spa Salon",
+        "heroheader":"ჰარმონერია","heroinfo":"Discover a Sanctuary Beyond the Ordinary","herotext":"Escape to a spa experience like no other, where every treatment is crafted to revive your body, mind, and spirit.\n             Our expert therapists offer a variety of personalized services tailored to rejuvenate and elevate your well-being. \n            Surrender to serenity and leave feeling renewed, refreshed, and ready to embrace life with newfound energy.","nav1":"Home","nav2":"About","nav3":"Services","nav4":"Team","nav5":"Gallery","nav6":"Contacts","navbg1":"Spa Salon","navbg2":"Asthetic & Pleasing","serv":"Services","team-info":"Passionate about wellness, our skilled therapists  and specialists are here to provide you with a relaxing and personalized spa experience"
+    
+    }
+    }
